@@ -34,7 +34,7 @@ seed = 1
 
 np.random.seed(seed)
 
-data = np.genfromtxt("mat.txt", delimiter='\t')
+data = np.genfromtxt("../Data/mat.txt", delimiter='\t')
 data = data[1:,:]
 reference = data[:n_ref,:]
 test = data[n_test_index:,:]
