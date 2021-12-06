@@ -149,7 +149,7 @@ print("Running on 10% MAF Dataset")
 ind = [100]
 
 for i in range(len(ind)):
-    ACC,R = SVD(ind[i],"../Data/genome2.txt")
+    ACC,R = SVD(ind[i],"../Data/10MAF_data.txt")
 
 print("R square Value of Randomization, SVD, KNN = ", R)
 print("Accuracy of Randomization, SVD, KNN = ", ACC)
@@ -165,7 +165,7 @@ lis6 = []
 
 print("Running on 60% MAF Dataset")
 for i in range(len(ind)):
-    ACC,R = SVD(ind[i],"../Data/mat.txt")
+    ACC,R = SVD(ind[i],"../Data/60MAF_data.txt")
 
 print("R square Value of Randomization, SVD, KNN = ", R)
 print("Accuracy of Randomization, SVD, KNN = ", ACC)
