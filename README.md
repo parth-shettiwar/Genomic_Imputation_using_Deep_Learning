@@ -1,6 +1,6 @@
 # Genomic Imputation Using Deep Learning
 
-This project was completed as part of M226 course at UCLA  
+This project was completed as part of M226 course at UCLA under Professor Sriram Sankararaman
 Team details:
 1) Parth Shettiwar
 2) Satvik Mashkaria
