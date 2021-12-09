@@ -15,3 +15,4 @@ a language generation task and leverage and train the existing deep learning app
 Following table shows illustrates the superiority of our models over existing traditional machine learning algoirthms:
 
 ![Accuracy](https://github.com/parth-shettiwar/Genomic_Imputation_using_Deep_Learning/blob/main/Results/Accuracy.png)
+![R2](https://github.com/parth-shettiwar/Genomic_Imputation_using_Deep_Learning/blob/main/Results/R2.png)
