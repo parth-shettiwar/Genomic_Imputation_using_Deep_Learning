@@ -6,7 +6,7 @@ Team details:
 2) Satvik Mashkaria
 3) Parth Patwa  
 
-Abstract  
+**Abstract**  
 Genome imputation refers to the statistical inference of unobserved genotypes. It is an
 import and and challenging problem in bioinformatics. Most of the previous solutions use statistical
 methods like SVD to tackle this problem. In this work we frame the genome imputation problem as
